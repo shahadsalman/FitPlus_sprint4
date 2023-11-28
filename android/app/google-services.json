@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283167393304",
+    "project_id": "fitplus-fcad4",
+    "storage_bucket": "fitplus-fcad4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283167393304:android:79aea4c89cd286f138256d",
+        "android_client_info": {
+          "package_name": "com.example.fitplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283167393304-g69v564u7vcgqo30a3pf1pq3rsdmiafj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrkSxwEkdwpEveVF57dtVVPeQJ0GAIys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283167393304-g69v564u7vcgqo30a3pf1pq3rsdmiafj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
